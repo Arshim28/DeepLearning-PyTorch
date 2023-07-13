@@ -36,9 +36,3 @@ This repository contains a collection of machine learning projects implemented u
 
 
 
-## Contributing
-If you have any suggestions, improvements, or additional projects to contribute, feel free to submit a pull request. Contributions are always welcome!
-
-Happy learning and experimenting with PyTorch!
-
-*Note: Add appropriate badges, license information, and acknowledgments as per your project's requirements.*
